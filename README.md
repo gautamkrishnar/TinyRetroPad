@@ -1,3 +1,4 @@
+```
   _____      _             _____          _ 
  |  __ \    | |           |  __ \        | |
  | |__) |___| |_ _ __ ___ | |__) |_ _  __| |
@@ -5,6 +6,7 @@
  | | \ \  __/ |_| | | (_) | |  | (_| | (_| |
  |_|  \_\___|\__|_|  \___/|_|   \__,_|\__,_|
  T I N Y  X 86   D E S K T O P   E D I T O R                                            
+```
 
 # RetroPad
 A working, Notepad-style Windows text editor in roughly 2.5 KB.
